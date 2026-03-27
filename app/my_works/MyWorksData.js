@@ -1,8 +1,33 @@
 export default [
   {
-name:"GONOVO",
-image:"./gonovo.webp",
-link:"https://gonovo.tech/",
+    name: "eyouth",
+    image: "./eyouth.webp",
+    link: "https://eyouthlearning.com",
+  },
+  {
+    name: "Sara o events",
+    image: "./saraoevents.webp",
+    link: "https://www.saraoevent.com/",
+  },
+  {
+    name: "Chefs choice",
+    image: "./chefschoice.webp",
+    link: "https://www.chefschoicefruits.com/",
+  },
+  {
+    name: "GONOVO",
+    image: "./gonovo.webp",
+    link: "https://gonovo.tech/",
+  },
+  {
+    name: "Oxford fin",
+    image: "./oxfordfin.webp",
+    link: "https://oxfordfin.com/",
+  },
+  {
+    name: "Deluxvape",
+    image: "./deluxvape.webp",
+    link: "https://www.deluxevape.uk/",
   },
   {
     name: "Scaffolding",
@@ -29,11 +54,7 @@ link:"https://gonovo.tech/",
     image: "./i-phone15.webp",
     link: "https://i-phone15-theta.vercel.app/",
   },
-  // {
-  //   name: "National Livre Institute",
-  //   image: "./institute.webp",
-  //   link: "https://nli.menofia.edu.eg/en",
-  // },
+
   {
     name: "Tesla Clone",
     image: "./Tesla.webp",
